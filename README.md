@@ -4,6 +4,7 @@
 # Full-Screen Image Slider with Responsive Design
 
 Welcome to the repository for my latest video tutorial! In this video, I'll walk you through the process of building a full-screen image slider from scratch. This slider is designed to be not only visually stunning but also fully functional and responsive across all devices.
+![Result](slider/Result.png)
 
 ## What You'll Learn
 

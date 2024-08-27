@@ -13,7 +13,7 @@ Welcome to the repository for my latest video tutorial! In this video, I'll walk
 
 ## Video Tutorial
 
-[Watch the tutorial here](#) (Add the link to your video once it's live)
+[Watch the tutorial here](#) (https://youtu.be/37OQKxKza78)
 
 ## Features
 
@@ -28,12 +28,12 @@ To get started with the code from the tutorial:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Limitless-Programmer/full-screen-image-slider.git
+    git clone https://github.com/LimitlessProgrammer/slider.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd full-screen-image-slider
+    cd slider
     ```
 
 3. **Open `index.html`** in your preferred code editor to view and modify the code.
